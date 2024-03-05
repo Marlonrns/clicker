@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    height: 100vh;
+
+    background-color: #f2f2f2;
+}
+
+#cookie {
+    padding: 10px 20px;
+    font-size: 24px;
+    background-color: #04ff81;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#cookie:hover {
+    background-color: #00ff6a;
+}
+ .cookie-container {
+        text-align: center;
+    }
+    
